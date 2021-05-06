@@ -1,7 +1,6 @@
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 Author Xiaofeng Huang 
-
-## This repo has the instructions on how to run analysis on UCI HAR Dataset.
+This repo has the instructions on how to run analysis on UCI HAR Dataset.
 
 ## Dataset
 
